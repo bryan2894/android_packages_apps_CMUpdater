@@ -8,6 +8,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- CMUpdate Config Strings -->
-    <string name="conf_update_server_url_def" translatable="false">https://raw.githubusercontent.com/bryan2894/CMUpdater-API/cm-14.0/celox/api.json</string>
+    <string name="conf_update_server_url_def" translatable="false">https://raw.githubusercontent.com/bryan2894/CMUpdater-API/cm-14.1/celox/api.json</string>
     <string name="conf_changelog_url" translatable="false">http://localhost/changelog.xml</string>
 </resources>
